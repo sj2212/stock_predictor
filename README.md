@@ -16,7 +16,7 @@ This repository contains a project focused on predicting stock prices using Long
 
 ## Overview
 
-The goal of this project is to predict the future prices of the Nifty 50 index using LSTM networks. The project covers data collection, preprocessing, model building, training, and evaluation.
+The goal of this project is to predict the future prices of the preferred stock using LSTM networks. The project covers data collection, preprocessing, model building, training, and evaluation.
 
 ## Dataset
 
