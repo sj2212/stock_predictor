@@ -13,6 +13,7 @@ This repository contains a project focused on predicting stock prices using Long
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
+- [Example](#example)
 
 ## Overview
 
@@ -35,3 +36,6 @@ The LSTM model is built using the Keras library and consists of the following la
 - Three LSTM layers with 20 units each, the first two layers return sequences.
 - A Dense layer for the final output.
 
+## Example 
+
+Here, we have used the Nifty 50 index of the past 2yrs (period) for an example and we have compared our predictions to the actual stock prices. 
